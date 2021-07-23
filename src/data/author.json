@@ -1,44 +1,39 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "name": "Jouni Männistö",
+    "occupation": "Software architect",
+    "location": "Helsinki, FI",
+    "avatar": "JJM_sininen.png",
+    "email": "jouni.mannisto@gmail.com",
+    "telephone": "+358 50 5124 335",
+    "website": "https://jouni.xyz",
     "skills": [
+        "C# / .NET",
         "HTML",
         "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Javascript",
+        "Web Components",
+        "LitElement"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Finnish",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@j0ne",
+            "url": "https://github.com/j0ne"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "jounimannisto",
+            "url": "https://www.linkedin.com/in/jounimannisto"
         }
     ]
 }
